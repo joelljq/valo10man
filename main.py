@@ -285,4 +285,4 @@ def load_points():
 
 
 load_points()
-client.run('MTA3NDAxOTUwMzMwODAxMzY3OA.GOafrn.OVgYiQ5mS0VJXy-AdzZO5H_kFGmVg0V9ZIz9iY')
+client.run('DISCORD TOKEN')
